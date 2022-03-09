@@ -68,8 +68,8 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@alirk99](https://www.frontendmentor.io/profile/alirk99)
+- Twitter - [@alirk99](https://www.twitter.com/alirk99)
 
 ## Acknowledgments
 
